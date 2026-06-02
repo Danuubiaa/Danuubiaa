@@ -1,10 +1,12 @@
 # 👋 Olá, eu sou a Danúbia!
 
-Atuo nas áreas administrativa e de tecnologia. Sou uma pessoa organizada, comprometida e dedicada às minhas responsabilidades, buscando sempre aprender e evoluir profissionalmente.
+🎓 Estudante de Tecnologia da Informação e participante do programa Jovem Programador pelo Senac.
 
-Atualmente, estudo programação e desenvolvimento de sistemas através do programa Jovem Programador pelo Senac, onde venho desenvolvendo conhecimentos em Java, MySQL, Git e GitHub.
+💻 Tenho interesse em desenvolvimento de software, banco de dados e suporte técnico, buscando constantemente aprimorar meus conhecimentos através de estudos e projetos práticos.
 
-Além da tecnologia, valorizo o trabalho em equipe, a comunicação e a busca constante por novos desafios. Gosto de utilizar meu tempo livre para aprender sobre informática, desenvolver projetos e acompanhar conteúdos relacionados à área de TI.
+📋 Possuo experiência na área administrativa, desenvolvendo habilidades como organização, responsabilidade, comunicação e comprometimento.
+
+🚀 Atualmente estudo Java, MySQL, Git e GitHub, construindo minha trajetória na área de tecnologia.
 
 ## 💻 Tecnologias
 
